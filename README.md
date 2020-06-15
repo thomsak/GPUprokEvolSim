@@ -1,5 +1,7 @@
 # GPUprokEvolSim
+
 Simulation of prokaryotic genomes using GPUs
+
 Copyright Thomas Sakoparnig
 
 You can run python recombSim4Letters.py -h to get further information on how to run the simulation software.
